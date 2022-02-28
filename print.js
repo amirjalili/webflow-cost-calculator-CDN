@@ -13,7 +13,7 @@ $('#print').click(function(){
            let unit = $(id).attr('unit');
            let value = $(id).val();
            const price = new Intl.NumberFormat().format(list_of_items[key]);
-           printable_list += '<p class="list_item">' + (index +1) + '.' + item_name + ' ' + value + " " + unit + ' @ $' + price + '</p>';
+           printable_list += '<p class="list_item">' + (index +1) + '. ' + item_name + ' ' + value + " " + unit + ' @ $' + price + '</p>';
    }});
 
      
