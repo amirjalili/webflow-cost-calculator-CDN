@@ -43,15 +43,15 @@ $('#print').click(function(){
    mywindow.document.write('<p class="p_margin" style=" font-weight: bold; ">General Notes:</p>');
    mywindow.document.write('<p class="p_margin" style=""> Tax, labor, rough material, and permit acquisition services are included.</p><br/>');
    mywindow.document.write('<p class="p_margin" style=" font-weight: bold;">General Exclusions:</p> ');
-   mywindow.document.write('<p class="p_margin" style=""> Engineering, deisgn, permits and associated fees are not included (if applicable)</p><br/>');
-   mywindow.document.write('<p class="p_margin" style=" font-weight: bold;">Clarifications:</p>');
-   mywindow.document.write('<p class="p_margin" style=""> If allowances are set, the client is responsible for any overages beyond the allowed amount</p><br/>');
-   mywindow.document.write('<p class="p_margin" style=" font-weight: bold; margin-bottom: 10px">Concealed/Hidden conditions:</p> ');
-   mywindow.document.write('<p class="p_margin" style="margin-bottom:15px;"> Concealed conditions exposed by demolition during project may affect this estimate</p><br/></div></div>');
-   mywindow.document.write('<div style="margin-top: 0;display:flex ;align-items: center; flex-direction: column;"><h3 style="font-weight: 600; color: #707070; margin-bottom: 0;">Ready to move Forward?</h3>');
-   mywindow.document.write('<p style="font-weight: 600; color: #707070; margin-bottom: 0;">Book an on-site meeting for one of our project managers to meet with</p>');
-   mywindow.document.write('<p style="font-weight: 600; color: #707070; margin-bottom: 10px; margin-top:0;">you to verify the estimate\'s accuracy and plan the construction phase.</p></div>');
-   mywindow.document.write('<div style="display: flex; justify-content: space-around;"><div style="display:flex; flex-direction: column; align-items: center;"><h3 style=" margin-bottom: 5px; font-weight: 400">Call us</h3> <div style="background-color: #D4AF36; width: 150px; height: 35px; display:flex; justify-content: center; align-items: center; border-radius: 30px; margin-top: 0;"><p style="font-weight: bold; font-size: 20px;color: #fff">510-890-0551</p> </div></div> <div style="display:flex; flex-direction: column; align-items: center;"><h3 style="font-weight: 400; margin-bottom: 5px">Visit</h3> <div style="margin-top: 0;background-color: #D4AF36; width: 250px;height: 35px; display:flex; justify-content: center; align-items: center; border-radius: 30px;"><p style="font-weight: bold; font-size: 20px;color: #fff">www.hqrpro.com/book</p> </div> </div> </div>');
+//    mywindow.document.write('<p class="p_margin" style=""> Engineering, deisgn, permits and associated fees are not included (if applicable)</p><br/>');
+//    mywindow.document.write('<p class="p_margin" style=" font-weight: bold;">Clarifications:</p>');
+//    mywindow.document.write('<p class="p_margin" style=""> If allowances are set, the client is responsible for any overages beyond the allowed amount</p><br/>');
+//    mywindow.document.write('<p class="p_margin" style=" font-weight: bold; margin-bottom: 10px">Concealed/Hidden conditions:</p> ');
+//    mywindow.document.write('<p class="p_margin" style="margin-bottom:15px;"> Concealed conditions exposed by demolition during project may affect this estimate</p><br/></div></div>');
+//    mywindow.document.write('<div style="margin-top: 0;display:flex ;align-items: center; flex-direction: column;"><h3 style="font-weight: 600; color: #707070; margin-bottom: 0;">Ready to move Forward?</h3>');
+//    mywindow.document.write('<p style="font-weight: 600; color: #707070; margin-bottom: 0;">Book an on-site meeting for one of our project managers to meet with</p>');
+//    mywindow.document.write('<p style="font-weight: 600; color: #707070; margin-bottom: 10px; margin-top:0;">you to verify the estimate\'s accuracy and plan the construction phase.</p></div>');
+//    mywindow.document.write('<div style="display: flex; justify-content: space-around;"><div style="display:flex; flex-direction: column; align-items: center;"><h3 style=" margin-bottom: 5px; font-weight: 400">Call us</h3> <div style="background-color: #D4AF36; width: 150px; height: 35px; display:flex; justify-content: center; align-items: center; border-radius: 30px; margin-top: 0;"><p style="font-weight: bold; font-size: 20px;color: #fff">510-890-0551</p> </div></div> <div style="display:flex; flex-direction: column; align-items: center;"><h3 style="font-weight: 400; margin-bottom: 5px">Visit</h3> <div style="margin-top: 0;background-color: #D4AF36; width: 250px;height: 35px; display:flex; justify-content: center; align-items: center; border-radius: 30px;"><p style="font-weight: bold; font-size: 20px;color: #fff">www.hqrpro.com/book</p> </div> </div> </div>');
     
     //var element = mywindow.document.getElementById('element-to-print');
   	//html2pdf(element);
